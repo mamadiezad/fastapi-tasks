@@ -52,7 +52,7 @@ Whether you're building a **SaaS product**, learning **FastAPI**, or need a **ba
 
 ```bash
 # Clone the repository
-git clone https://github.com/mamadiezad/fastapi-tasks.git
+git clone https://github.com/mmdverse/fastapi-tasks.git
 cd fastapi-tasks
 
 # Run with Docker (recommended)
@@ -137,9 +137,9 @@ fastapi-tasks/
 
 ## 🔗 Related Projects
 
-- [Node GraphQL API](https://github.com/mamadiezad/node-graphql-api) — GraphQL API with Apollo & Prisma
-- [React Kanban](https://github.com/mamadiezad/react-kanban) — Drag & drop Kanban board frontend
-- [TS Design Patterns](https://github.com/mamadiezad/ts-design-patterns) — Design patterns in TypeScript
+- [Node GraphQL API](https://github.com/mmdverse/node-graphql-api) — GraphQL API with Apollo & Prisma
+- [React Kanban](https://github.com/mmdverse/react-kanban) — Drag & drop Kanban board frontend
+- [TS Design Patterns](https://github.com/mmdverse/ts-design-patterns) — Design patterns in TypeScript
 
 ---
 
@@ -150,6 +150,6 @@ fastapi-tasks/
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/mamadiezad">Mohammad</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/mmdverse">Mohammad</a></sub>
 </p>
-<p align="center">ساخته شده با ❤️ توسط <a href="https://github.com/mamadiezad">Mohammad</a> | <a href="https://t.me/llllxyz">📱 تلگرام</a></p>
+<p align="center">ساخته شده با ❤️ توسط <a href="https://github.com/mmdverse">Mohammad</a> | <a href="https://t.me/llllxyz">📱 تلگرام</a></p>
